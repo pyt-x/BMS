@@ -1,0 +1,4 @@
+"D:\install_software\Clion\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\My_code\C\BMS
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/My_code/C/BMS/cmake-build-debug

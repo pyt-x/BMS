@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/My_code/C/BMS/lend_return.c
+stdio.h
+-
+manage.h
+D:/My_code/C/BMS/manage.h
+stdlib.h
+-
+string.h
+-
+conio.h
+-
+time.h
+-
+
+D:/My_code/C/BMS/manage.h
+
