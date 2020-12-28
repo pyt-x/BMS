@@ -92,7 +92,7 @@ void Manager(char account[]){
                 break;
             case '3':
                 system("cls");
-                //return_book();
+                book_return();
                 break;
             case '4':
                 system("cls");
@@ -101,6 +101,7 @@ void Manager(char account[]){
             case '5':
                 system("cls");
                 printf("请给出要删除图书的名字");
+                gets(bookname);
                 book_delete(bookname);
                 break;
             case '6':

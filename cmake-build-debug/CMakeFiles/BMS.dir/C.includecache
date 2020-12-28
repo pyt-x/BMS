@@ -6,6 +6,16 @@
 
 #IncludeRegexTransform: 
 
+D:/My_code/C/BMS/book.c
+manage.h
+D:/My_code/C/BMS/manage.h
+stdio.h
+-
+windows.h
+-
+conio.h
+-
+
 D:/My_code/C/BMS/lend_return.c
 stdio.h
 -
@@ -15,10 +25,38 @@ stdlib.h
 -
 string.h
 -
-conio.h
--
 time.h
 -
 
+D:/My_code/C/BMS/main.c
+stdio.h
+-
+manage.h
 D:/My_code/C/BMS/manage.h
+windows.h
+-
+
+D:/My_code/C/BMS/manage.c
+stdlib.h
+-
+time.h
+-
+stdio.h
+-
+manage.h
+D:/My_code/C/BMS/manage.h
+windows.h
+-
+string.h
+-
+conio.h
+-
+
+D:/My_code/C/BMS/manage.h
+
+D:/My_code/C/BMS/penalty.c
+manage.h
+D:/My_code/C/BMS/manage.h
+stdio.h
+-
 

@@ -84,6 +84,7 @@ void save_book(Books *p);//保存图书进文件
 void lend_book();
 void return_book();
 void book_delete(char bookname[]);
+void book_return();
 
 int Login_in();//登录函数
 int Register();//注册函数
